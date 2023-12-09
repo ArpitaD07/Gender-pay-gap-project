@@ -11,3 +11,7 @@ The gender pay gap is reported as six metrics or analytics
 6. proportion of males and females in each quartile band
 
 All the employees in the data have received bonus, therefore the fifth metric has not been measured.
+
+Skills: Data cleaning, conducting descriptive statistical analysis, data visualization
+
+Software: Python, Pandas, seaborn, plotly, IBM Cognos Analytics
