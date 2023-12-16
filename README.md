@@ -1,4 +1,4 @@
-# Gender-pay-gap-project
+# Project 1: Gender pay gap
 
 The aim of the project is to utilize the learnings from the IBM Data Analytics course. The data used for this project was acquired from the glass door dataset for analysing gender pay gap by different job titles. In this project, I have conducted data analysis and visualization with the help of IBM Cognos Analytics and Python coding. 
 
