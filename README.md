@@ -15,3 +15,12 @@ All the employees in the data have received bonus, therefore the fifth metric ha
 Skills: Data cleaning, conducting descriptive statistical analysis, data visualization
 
 Software: Python, Pandas, seaborn, plotly, IBM Cognos Analytics
+
+
+# Project 2: HR data exploring using SQL magic in Python
+-Establishing connection with SQL server
+-Loading data and converting to SQL tables
+-Finding TOP 5 EARNERS USING DESC AND LIMIT function
+-Finding out what departments employees work in using inner join
+-Plotting a bar graph for average pay gap by gender using GROUP BY and matplotlib and seaborn libraries
+-Plotting a bar graph for salary range earned by employees working in different job titles
