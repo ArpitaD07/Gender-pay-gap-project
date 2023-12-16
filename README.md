@@ -17,9 +17,9 @@ Skills: Data cleaning, conducting descriptive statistical analysis, data visuali
 Software: Python, Pandas, seaborn, plotly, IBM Cognos Analytics
 
 
-# Project 2: HR data exploring using SQL magic in Python
+# Project 2: Exploratory analysis using SQL magic in Python
 -Establishing connection with SQL server
--Loading data and converting to SQL tables
+-Loading HR data and converting to SQL tables
 -Finding TOP 5 EARNERS USING DESC AND LIMIT function
 -Finding out what departments employees work in using inner join
 -Plotting a bar graph for average pay gap by gender using GROUP BY and matplotlib and seaborn libraries
