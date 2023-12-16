@@ -18,9 +18,14 @@ Software: Python, Pandas, seaborn, plotly, IBM Cognos Analytics
 
 
 # Project 2: Exploratory analysis using SQL magic in Python
--Establishing connection with SQL server
--Loading HR data and converting to SQL tables
--Finding TOP 5 EARNERS USING DESC AND LIMIT function
--Finding out what departments employees work in using inner join
--Plotting a bar graph for average pay gap by gender using GROUP BY and matplotlib and seaborn libraries
--Plotting a bar graph for salary range earned by employees working in different job titles
+-Establishing connection with SQL server.
+
+-Loading HR data and converting to SQL tables.
+
+-Finding TOP 5 EARNERS USING DESC AND LIMIT function.
+
+-Finding out what departments employees work in using inner join.
+
+-Plotting a bar graph for average pay gap by gender using GROUP BY and matplotlib and seaborn libraries.
+
+-Plotting a bar graph for salary range earned by employees working in different job titles.
